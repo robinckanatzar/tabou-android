@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "102913311558",
+    "firebase_url": "https://fir-authdemo-64b15.firebaseio.com",
+    "project_id": "fir-authdemo-64b15",
+    "storage_bucket": "fir-authdemo-64b15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102913311558:android:e80cfdd61dda61d9",
+        "android_client_info": {
+          "package_name": "com.robinkanatzar.android.rck.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102913311558-g4505b0kbhhk96rto0b8561f3mgt8l2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZpWyEVf8kkortCNs6C_VaIAM5sRr3e0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102913311558:android:830723d2f1c1154c",
+        "android_client_info": {
+          "package_name": "com.robinkanatzar.android.rck.tabou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102913311558-g4505b0kbhhk96rto0b8561f3mgt8l2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZpWyEVf8kkortCNs6C_VaIAM5sRr3e0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
